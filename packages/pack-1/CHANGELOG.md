@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.3.0-alpha.0](https://github.com/matheusps/mps-lerna-test/compare/v1.2.1-alpha.0...v1.3.0-alpha.0) (2025-10-27)
+
+
+### Features
+
+* changed ([3e1e9fa](https://github.com/matheusps/mps-lerna-test/commit/3e1e9fa7de34f532ab4d89a93320fc3a9453f633))
+
+
+
+
+
 ## [1.2.1-alpha.0](https://github.com/matheusps/mps-lerna-test/compare/v1.2.0...v1.2.1-alpha.0) (2025-10-27)
 
 **Note:** Version bump only for package mps-test-lerna-pack-1
