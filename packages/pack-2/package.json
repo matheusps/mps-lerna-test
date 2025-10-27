@@ -1,6 +1,6 @@
 {
 	"name": "mps-test-lerna-pack-2",
-	"version": "1.1.0",
+	"version": "1.2.0-dev.0",
 	"description": "",
 	"main": "index.js",
 	"scripts": {
