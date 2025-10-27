@@ -1,0 +1,16 @@
+{
+	"version": "1.0.0",
+	"npmClient": "pnpm",
+	"command": {
+		"publish": {
+			"message": "[no ci] Release: %v"
+		}
+	},
+	"ignoreChanges": [
+		"CHANGELOG.md",
+		"**/__fixtures__/**",
+		"**/*.snap",
+		"**/*.test.*",
+		"**/*.md"
+	]
+}
